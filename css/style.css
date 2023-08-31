@@ -377,3 +377,28 @@
     position: sticky;
   }
 
+.MainContent{
+    width: 100%;
+    min-height: 900px;
+    background-color: #d9f2ff;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+#kopText{
+    float: right;
+    padding-top: 175px;
+    padding-right: 24px;
+    font-size: x-large;
+}
+
+#introText{
+    font-size: large;
+    float: right;
+    font-family: sans-serif;
+    text-align: right;
+    margin-top: 300px;
+    
+}
